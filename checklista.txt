@@ -1,0 +1,47 @@
+✅ Checklist do portfolio / landing page
+🔹 Struktura
+
+ Nagłówek (Header) – imię/nick + krótki opis kim jesteś (np. Junior Frontend Developer).
+
+ Menu / Nawigacja – linki do sekcji (np. O mnie, Projekty, Kontakt).
+
+ Sekcja “O mnie” – kilka zdań o Tobie (kim jesteś, co robisz, jakie technologie znasz).
+
+ Sekcja Projekty – mini-kafelki/boxy z nazwą projektu, krótkim opisem i linkiem do GitHuba/demo.
+
+ Sekcja Kontakt – e-mail + linki (GitHub, LinkedIn, ewentualnie CV w PDF).
+
+ Stopka – ©2025 Twoje imię + np. “Made with ❤️ and coffee ☕”.
+
+🔹 Treść
+
+ Twoje imię i nazwisko/nick – nie anonimowo 😉
+
+ Stack technologiczny – HTML, CSS, JS, i to, czego się uczysz (np. React).
+
+ Projekty – minimum 2–3 działające strony/aplikacje (nawet proste, ale pokazujące skille).
+
+ Linki do kodu – GitHub / GitLab.
+
+ Łatwy kontakt – e-mail lub formularz kontaktowy.
+
+🔹 Wygląd / UX
+
+ Responsywność – żeby strona działała na telefonie i komputerze.
+
+ Prosta kolorystyka – 2–3 kolory przewodnie.
+
+ Czytelne czcionki – nie za małe, nie za duże.
+
+ Przycisk CTA – np. “Zobacz moje projekty” albo “Skontaktuj się ze mną”.
+
+🔹 Bonus (opcjonalnie, ale robi robotę)
+
+ Animacje – np. fade-in, hover na buttonach.
+
+ Dark mode – przełącznik jasny/ciemny.
+
+ Małe ikony – np. z Font Awesome
+ (GitHub, LinkedIn, e-mail).
+
+ Favicon – ikona strony w zakładce przeglądarki.
